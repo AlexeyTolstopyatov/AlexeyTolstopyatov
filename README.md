@@ -3,6 +3,7 @@
 ```CSharp
 public partial class Personality
 {
+
   /// <summary>
   /// Моя фабричная функция по сборке себя (визуально)
   /// </summary>
@@ -11,8 +12,8 @@ public partial class Personality
       name: "Alexey",
       nickname: "rute_t"
       age: 20,
-      hobbies: new Hobbies[4] {
-        "Application developing"
+      hobbies: new Hobbies[6] {
+        "Application developing",
         "Math",
         "Chemistry",
         "Chess",
@@ -27,6 +28,7 @@ public partial class Personality
         "VERY inattentive"
       }
     );
+
   /// <summary>
   /// Для тех кто .......интересуется типологиями
   /// <summary>
