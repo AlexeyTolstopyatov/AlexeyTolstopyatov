@@ -80,7 +80,7 @@ public partial class Personality
  - Microsoft .NET 6
  - и так далее.
 
-
+<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=AlexeyTolstopyatov&show_icons=true&locale=en&theme=tokyonight" alt="AlexeyTolstopyatov" /></p>
 
 <!--
 **AlexeyTolstopyatov/AlexeyTolstopyatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
