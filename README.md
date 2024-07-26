@@ -10,7 +10,7 @@ public partial class Personality
   public Personality Create() =>
     new Personality(
       name: "Alexey",
-      nickname: "rute_t"
+      nickname: "rule_t"
       age: 20,
       hobbies: new Hobbies[6] {
         "Application developing",
