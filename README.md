@@ -20,12 +20,10 @@ public partial class Personality
         "Drawing",
         "Guitar playing"
       },
-      errlist: new ErrorList[5] {
+      qualities: new Quality[3] {
         "Overthinking",
         "Overworking",
-        "Emotional Breakdown freezing",
-        "Unhealthy perfectionism",
-        "VERY inattentive"
+        "Emo"
       }
     );
 
