@@ -26,21 +26,6 @@ public partial class Personality
         "Emo"
       }
     );
-
-  /// <summary>
-  /// Для тех кто .......интересуется типологиями
-  /// <summary>
-  public void MyTypology(out Personality id)
-  {
-    id.Enneagram.Main = "5w4";
-    id.Enneagram.ThreeType = 541;
-    id.Young = "IN(F)";
-    id.Mbti = "INFJ";
-    id.Socionics = "EII";
-    id.Psycosophy.BasedInstance.Ident = "LEVF";
-    id.Psycosophy.TemporisticInstance.Ident = "VBPN";
-    id.Psycosophy.AmatoricInstance.Ident = "ASFE";
-  }
 }
 ```
 
