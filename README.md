@@ -1,9 +1,13 @@
+# Статистика
 <p>
-<img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&layout=compact&langs_count=7&theme=dark"/>
-<img align="center" src="https://readmestats.999857.xyz/api?username=AlexeyTolstopyatov&show_icons=true&locale=en&theme=dark" alt="AlexeyTolstopyatov" />
+  <img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
+<p>
+  <img align="center" src="https://readmestats.999857.xyz/api?username=AlexeyTolstopyatov&show_icons=true&locale=en&theme=dark" alt="AlexeyTolstopyatov" />
+</p>
 <hr/>
+
 ## Кодом о себе
 
 ```CSharp
