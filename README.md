@@ -1,5 +1,9 @@
-<img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&layout=compact&langs_count=7&theme=dark"/>
+<p>
+<img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&layout=compact&langs_count=7&theme=tokionight"/>
 <img align="center" src="https://readmestats.999857.xyz/api?username=AlexeyTolstopyatov&show_icons=true&locale=en&theme=tokyonight" alt="AlexeyTolstopyatov" />
+</p>
+
+<hr/>
 ## Кодом о себе
 
 ```CSharp
