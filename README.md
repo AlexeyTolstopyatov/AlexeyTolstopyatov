@@ -1,3 +1,5 @@
+<img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&layout=compact&langs_count=7&theme=dark"/>
+<img align="center" src="https://readmestats.999857.xyz/api?username=AlexeyTolstopyatov&show_icons=true&locale=en&theme=tokyonight" alt="AlexeyTolstopyatov" />
 ## Кодом о себе
 
 ```CSharp
@@ -63,7 +65,7 @@ public partial class Personality
  - Microsoft .NET 6
  - и так далее.
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=AlexeyTolstopyatov&show_icons=true&locale=en&theme=tokyonight" alt="AlexeyTolstopyatov" /></p>
+<p>&nbsp;</p>
 
 <!--
 **AlexeyTolstopyatov/AlexeyTolstopyatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
