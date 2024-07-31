@@ -1,6 +1,6 @@
 # Статистика
 <p>
-  <img height="140em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 <p>
