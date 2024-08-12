@@ -1,91 +1,43 @@
-# Статистика
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm an Alexey Tolstopyatov
+===========================================================================================================================================
+
+.NET Developer / System Administrator
+-------------------------------------
+
+A few years ago, when I was in the 6th grade, I found a computer science textbook for the 9th grade of 1998. Since then, I have not slowed down and have been trying to learn and understand everything.
+
+* 🌍  I'm based in Russia, Tomsk
+* 🚀  I'm currently working on [My new objects notation](http://github.com/AlexeyTolstopyatov/mom-notation)
+* 🧠  I'm learning Microsoft F#
+
+## Skills
+
+### Always I'm using
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+  </a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
+  </a>
 </p>
 
-<p>
-  <img align="center" src="https://readmestats.999857.xyz/api?username=AlexeyTolstopyatov&show_icons=true&locale=en&theme=dark" alt="AlexeyTolstopyatov" />
-</p>
-<hr/>
+### Little bit more
+ - Microsoft Windows
+ - Apple MacOS
+ - Linux (Debian based)
+ - Object-oriented languages (C#/VB.NET/Java)
+ - C (not ++)
 
-## Кодом о себе
+### Socials
+I dont have profile in Social networks, but you can find me in [Telegram](https://tg.cc/rule_t](https://t.me/rule_t))
 
-```CSharp
-public partial class Personality
-{
+### Badges
 
-  /// <summary>
-  /// Моя фабричная функция по сборке себя (визуально)
-  /// </summary>
-  public Personality Create() =>
-    new Personality(
-      name: "Alexey",
-      nickname: "rule_t"
-      age: 20,
-      hobbies: new Hobbies[6] {
-        "Application developing",
-        "Math",
-        "Chemistry",
-        "Chess",
-        "Drawing",
-        "Guitar playing"
-      },
-      qualities: new Quality[3] {
-        "Overthinking",
-        "Overworking",
-        "Emo"
-      }
-    );
-}
-```
+<b>My GitHub Stats</b>
 
-### О себе
-Алексей, 20 лет. Скорее всего продолжающий .NET разработчик. Знаю толком ничего, но учусь и разбираюсь. Да, код я написал сам, без нейросетей. Таково правило.
-Разбираюсь в:
- - Администрировании Windows,
- - C#, 
- - Visual Basic (6.0 и .NET),
- - Batch
- - T-SQL (потому что работал с Microsoft Azure)
- - ANSI-C
- - Английском (по куче пройденных тестов - уровень b2.1)
+<a href="http://www.github.com/AlexeyTolstopyatov">
+<img src="https://github-readme-stats.vercel.app/api?username=AlexeyTolstopyatov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AlexeyTolstopyatov's GitHub stats" />
+</a>
 
-### Активно изучаю 
- - ANSI-C - чтобы разбираться с железом и драйверами для ОС.
- - Python - чтобы быстро решать прикладные задачи, требующие много фреймворков. (по возможности переписываю все на C#, если использую это неоднократно)
-
-### Буду изучать и очень долго разбирать
- - Go (golang) - на замену C# в части веба.
- - Rust
- - Haskel
-
-Странный ASD чел, который тормозит абсолютно везде. Я могу затупить и забыть где оставил бутерброд и куда положил холодильник, но
-обязательно это вспомню, переработаю и исправлю. Так же наоборот, могу абсолютно случайно вспомнить "как загружаются драйвера в MS-DOS" или что-то хуже.
-Я очень люблю ковыряться в историческом хламе. Все что давно устарело, забыто, брошено, это все обязательно попадется мне под руку 
-и вместо того, чтобы развиваться вперед и учиться рабоать с актуальными инструментами (например с Postgres SQL), я ковыряюсь в архивах Microsoft и
-ищу например анатомию VxD (Virtual Device Driver). Жизнь как-то так сложилась, что я не могу никак распрощаться с продуктами Microsoft.
-
-Мои инструменты:
- - Microsoft Azure
- - Microsoft Visual Studio
- - Microsoft Visual Studio to Office
- - Microsoft Visual C++ compiler
- - Microsoft .NET 6
- - и так далее.
-
-<p>&nbsp;</p>
-
-<!--
-**AlexeyTolstopyatov/AlexeyTolstopyatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/AlexeyTolstopyatov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
