@@ -12,7 +12,7 @@ A few years ago, when I was in the 6th grade, I found a computer science textboo
 
 ## Skills
 
-### Always I'm using
+### Generally I'm using
 <p>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
@@ -30,14 +30,6 @@ A few years ago, when I was in the 6th grade, I found a computer science textboo
  - C (not ++)
 
 ### Socials
-I dont have profile in Social networks, but you can find me in [Telegram](https://tg.cc/rule_t](https://t.me/rule_t))
+I dont have profiles in Social networks, but you can find me in [Telegram](https://tg.cc/rule_t](https://t.me/rule_t))
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AlexeyTolstopyatov">
-<img src="https://github-readme-stats.vercel.app/api?username=AlexeyTolstopyatov&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="My GitHub Stat" />
-</a>
-
-<a href="https://github.com/AlexeyTolstopyatov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20%Languages" alt="Top languages" /></a>
+<a href="https://github.com/AlexeyTolstopyatov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&hide=html&custom_title=Top%20%Languages" alt="Top languages" /></a>
