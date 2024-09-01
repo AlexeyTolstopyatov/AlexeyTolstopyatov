@@ -33,6 +33,7 @@ A few years ago, when I was in the 6th grade, I found a computer science textboo
 I dont have profiles in Social networks, but you can find me in [Telegram](https://tg.cc/rule_t](https://t.me/rule_t))
 
 <a href="https://github.com/AlexeyTolstopyatov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&hide=html&custom_title=Top%20%Languages" alt="Top languages" /></a>
+<br/>
 <a href="https://github.com/AlexeyTolstopyatov" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&hide_progress=true&langs_count=20&hide_border=true&custom_title=All%20%using%20%languages"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&hide_progress=true&langs_count=20&hide_border=true&theme=dark&custom_title=All%20%using%20%languages"></img>
 </a>
