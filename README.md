@@ -7,8 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A few years ago, when I was in the 6th grade, I found a computer science textbook for the 9th grade of 1998. Since then, I have not slowed down and have been trying to learn and understand everything.
 
 * 🌍  I'm based in Russia, Tomsk
-* 🚀  I'm currently working on [My new objects notation](http://github.com/AlexeyTolstopyatov/mom-notation)
-* 🧠  I'm learning Microsoft F#
 
 ## Skills
 
@@ -22,12 +20,32 @@ A few years ago, when I was in the 6th grade, I found a computer science textboo
   </a>
 </p>
 
-### Little bit more
- - Microsoft Windows
- - Apple MacOS
- - Linux (Debian based)
- - Object-oriented languages (C#/VB.NET/Java)
- - C (not ++)
+### Zone of comfort
+ - Microsoft Visual Studio 17.12
+     - .NET 6.0 / 7.0
+     - .NET Framework 4.7
+     - C#
+     - Visual Basic .net
+     - F#
+ - JetBrains CLion 2023.2
+     - C89 C99
+     - C++11
+     - CLang / gcc
+     - GNU Linker
+     - MSVC++
+ - AsmVisual
+     - Flat assembler
+     - x64dbg
+     - windbg
+ - Giga IDE 
+     - Python 3.9
+     - Java 8
+     - other plugins for Java
+
+# Environment
+ - Microsoft Windows 11
+ - Open SUSE Leap 15.6
+ - MacOS 12.1 Monterey
 
 ### Socials
 I dont have profiles in Social networks, but you can find me in [Telegram](https://tg.cc/rule_t](https://t.me/rule_t))
