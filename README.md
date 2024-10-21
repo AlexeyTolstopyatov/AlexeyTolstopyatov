@@ -22,6 +22,7 @@ A few years ago, when I was in the 6th grade, I found a computer science textboo
 
 ### Zone of comfort
  - Microsoft Visual Studio 17.12
+ - JetBrains Rider 2024.1
      - .NET 6.0 / 7.0
      - .NET Framework 4.7
      - C#
