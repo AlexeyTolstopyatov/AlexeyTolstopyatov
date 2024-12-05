@@ -52,9 +52,7 @@ A few years ago, when I was in the 6th grade, I found a computer science textboo
 ### Socials
 I dont have profiles in Social networks, but you can find me in [Telegram](https://tg.cc/rule_t](https://t.me/rule_t))
 <p>
-  <a href="https://github.com/AlexeyTolstopyatov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&langs_count=5&theme=transparent&hide_border=true&locale=en&hide=html&custom_title=The%20%most%20%used" alt="Top languages" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&langs_count=5&theme=transparent&hide_border=true&locale=en&hide=html&custom_title=The%20%most%20%used" alt="Top languages" />
   <br/>
-  <a href="https://github.com/AlexeyTolstopyatov" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyTolstopyatov&hide_progress=true&langs_count=18&hide_border=true&theme=transparent&custom_title=All%20%used"></img>
-  </a>
 </p>
