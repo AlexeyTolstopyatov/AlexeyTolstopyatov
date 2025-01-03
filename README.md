@@ -6,7 +6,7 @@
 * 📚  "Оптимизирующие компиляторы"
 * 📚  "Паттерны объектно-ориентированного программирования"
 
-My scopes of exploring is Windows NT internals and history of Microsoft Windows changes/features/bugs 
+My scope of exploring is Windows NT internals and history of Microsoft Windows changes/features/bugs 
 
 ### Environment
  - Microsoft Windows 11
