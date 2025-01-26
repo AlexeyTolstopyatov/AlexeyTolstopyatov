@@ -1,5 +1,3 @@
-# I'm Alexey Tolstopyatov
-
 ### System Administrator / System Developer
 
 * 🌍  Russia, Tomsk
