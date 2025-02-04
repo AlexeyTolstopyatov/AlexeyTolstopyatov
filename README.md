@@ -1,9 +1,5 @@
 ### System Administrator / System Developer
 
-* 🌍  Russia, Tomsk
-* 📚  "Оптимизирующие компиляторы"
-* 📚  "Паттерны объектно-ориентированного программирования"
-
 ### Environment
  - Microsoft Windows 11
  - Open SUSE Linux 15.6
